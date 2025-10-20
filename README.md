@@ -60,6 +60,4 @@ Push the project folder you uploaded:
 git push origin main
 ```
 
-
-In your browswer, refresh the repository
-Et Viola! you just uploaded your activity today!
+In your browser, refresh the repository — et voilà! You’ve just uploaded your activity today!
