@@ -24,7 +24,7 @@ Now, clone the repository *from your account* to your local computer.
     > `https://github.com/your-username/appdev-10-20-2025.git`
 3.  Open your terminal, navigate to where you want to save your project, and run:
     ```bash
-    git clone [https://github.com/your-username/appdev-10-20-2025.git](https://github.com/your-username/appdev-10-20-2025.git)
+    git clone https://github.com/your-username/appdev-10-20-2025.git
     ```
 4.  Enter the new project directory:
     ```bash
