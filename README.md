@@ -57,7 +57,7 @@ git commit -m "Describe your changes here"
 Push the project folder you uploaded:
 
 ```bash
-git push origin master
+git push origin main
 ```
 
 
